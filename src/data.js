@@ -6,7 +6,7 @@ export const PROFILE = {
   first: "Pranav",
   last: "Reddy",
   fullName: "Pranav Reddy",
-  tagline: "Computer Science • Robotics • Technology for Social Good",
+  tagline: "",
   /* CONFLICT: portfolio implied Hyderabad (Blue Cross Hyderabad);
      resume states Chennai, Tamil Nadu. Using the resume. */
   location: "Chennai, Tamil Nadu, India",
